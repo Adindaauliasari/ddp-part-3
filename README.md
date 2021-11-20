@@ -9,8 +9,11 @@ int main(){
 	 
 	 
 	  cout<< "----------TINGKATAN HOLDER ( PEMILIK BTC )-----------" << endl;
+	  
 	  cout<< " "<< endl;
+	  
 	  cin>>bitcoin;
+	  
 	  cout<<" "<< endl;
 	  
 	  
