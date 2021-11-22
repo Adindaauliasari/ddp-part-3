@@ -8,6 +8,7 @@ int main(){
 	  float bitcoin,shrimp,crab,octopus,fish,dolphin,shark,whale,humpback;
 	 
 	 
+	 
 	  cout<< "TINGKATAN HOLDER ( PEMILIK BTC )" << endl;
 	  
 	  cout<< " "<< endl;
