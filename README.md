@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
 	    
 	  
 	  float bitcoin,shrimp,crab,octopus,fish,dolphin,shark,whale,humpback;
