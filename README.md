@@ -6,7 +6,6 @@ int main()
 
 {
 	    
-	  
 	  float bitcoin,shrimp,crab,octopus,fish,dolphin,shark,whale,humpback;
 	 
 	 
