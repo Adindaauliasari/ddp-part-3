@@ -18,7 +18,6 @@ int main()
 	  cout<<" "<< endl;
 	  
 	  
-	  
 	  if(bitcoin < 1){
 	  	cout<< "tipe ranking : shrimp" << endl;
 	  }
