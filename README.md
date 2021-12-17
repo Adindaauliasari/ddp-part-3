@@ -32,6 +32,7 @@ int main()
 	  }
 	  else if (bitcoin  >= 100 && bitcoin < 500){
 	  	cout << " tipe ranking : dolphin" << endl;
+		
 	  }
 	  else if (bitcoin  >= 500 && bitcoin  < 1000){
 	  	cout << "tipe ranking : shark" << endl;
