@@ -14,7 +14,7 @@ int main ()
 	  
 	  cin>>bitcoin;
 	  
-	  cout<< " "<< endl;
+	  cout<< " " << endl;
 	  
 	  
 	  if(bitcoin < 1){
