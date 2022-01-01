@@ -18,19 +18,19 @@ int main ()
 	  
 	  
 	  if(bitcoin < 1){
-	  	cout<< "tipe ranking : shrimp" << endl;
+	  	cout<< "tipe ranking : shrimp" << endl ;
 	  }
 	  else if (bitcoin >= 1 && bitcoin < 10){
-	  	cout<< "tipe ranking : crab"  << endl;
+	  	cout<< "tipe ranking : crab"  << endl ;
 	  }
 	  else if (bitcoin  >= 10 && bitcoin < 50){
-	  	cout<< "tipe ranking : octopus"  << endl;
+	  	cout<< "tipe ranking : octopus"  << endl ;
 	  }
 	  else if (bitcoin  >= 50 && bitcoin < 100 ){
-	  	cout << "tipe ranking : fish" << endl;
+	  	cout << "tipe ranking : fish" << endl ;
 	  }
 	  else if (bitcoin  >= 100 && bitcoin < 500){
-	  	cout << " tipe ranking : dolphin" << endl;
+	  	cout << " tipe ranking : dolphin" << endl ;
 		
 	  }
 	  else if (bitcoin  >= 500 && bitcoin  < 1000){
